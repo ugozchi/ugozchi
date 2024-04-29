@@ -1,7 +1,9 @@
 ![??? logo](img/???.png)
 
 ![Language Badge](https://img.shields.io/badge/C-fe428e?logo=C&label=language&labelColor=151515) ![Norminette Badge](https://img.shields.io/badge/passing-brightgreen?logo=42&label=norminette&labelColor=151515) ![Library Badge](https://img.shields.io/badge/my_own_libft-004d40?logo=GitHub&label=library%20used&labelColor=151515)
-
+<p align="center">
+	Ce projet t'a aidé ? Mets-lui une 🌟!  
+	
 # Nom du projet
 
 Description du projet ici
