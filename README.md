@@ -13,9 +13,7 @@
 <!--Skills-->
 <h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Maracas.png" width = 30px> My skills</h1>
 
-<p align="center">
-  Languages :
-</p>
+#### Languages:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,python,javascript" />
@@ -23,7 +21,7 @@
 </p>
 
 #### Front-End Development:
-<p align="center">
+<p style="margin-left: 80px;"<p style="margin-left: 80px;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
