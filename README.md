@@ -11,7 +11,7 @@
 </p>
 
 <!--Skills-->
-<h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Maracas.png" width = 30px> My skills<img src = "https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Writing%20Hand%20Light%20Skin%20Tone.png" width = 30px></h1>
+<h1 align="center"> My skills <img src = "https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Writing%20Hand%20Light%20Skin%20Tone.png" width = 30px></h1>
 
 <p align="center">
   <table align="center">
