@@ -14,7 +14,7 @@
 <h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Maracas.png" width = 30px> My skills</h1>
 
 <p align="center">
-  #### Langauges
+  <a width = 30x> Language</h1>
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="100">
