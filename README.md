@@ -21,7 +21,7 @@
 </p>
 
 #### Front-End Development:
-<p style="margin-left: 80px;">
+<p style="margin-left: 8000px;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
