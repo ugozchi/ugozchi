@@ -40,3 +40,33 @@
     <img src="https://skillicons.dev/icons?i=git,docker,github,vscode" />
   </a>
 </p>
+
+
+<p align="center">
+  <table align="center">
+    <tr>
+      <!-- Text for first logo -->
+      <td align="center" style="width: 50%;">
+        <strong>Languages</strong>
+      </td>
+      <!-- Text for second logo -->
+      <td align="center" style="width: 50%;">
+        <strong>Front-End Development</strong>
+      </td>
+    </tr>
+    <tr>
+      <!-- First logo -->
+      <td align="center" style="width: 50%;">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=git,docker,github,vscode" height="60">
+        </a>
+      </td>
+      <!-- Second logo -->
+      <td align="center" style="width: 50%;">
+        <a href="https://www.linkedin.com/company/kynapse/" target="_blank">
+          <img src=".github/media/logo_kynapse.svg" alt="Logo Kynapse" height="60">
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
