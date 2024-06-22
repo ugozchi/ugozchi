@@ -72,12 +72,12 @@
 ### 42 School Projects
 <div align="center">
 
-<a href="https://github.com/ugozchi/42_Libft">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png)</a>
-<a href="https://github.com/ugozchi/42_Get_Next_Line">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linee.png)</a>
-<a href="https://github.com/ugozchi/42_Ft_Printf">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfe.png)</a>
-<a href="https://github.com/ugozchi/42_Born2beRoot">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/born2beroote.png)</a>
-<a href="https://github.com/ugozchi/42_Pipex">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/pipexe.png)</a>
-<a href="https://github.com/ugozchi/42_Push_swap">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swape.png)</a>
+<a href="https://github.com/ugozchi/42_Libft">![42 Badge](https://github.com/ugozchi/ugozchi/blob/main/42_badges/libftm.png)</a>
+<a href="https://github.com/ugozchi/42_Get_Next_Line">![42 Badge](https://github.com/ugozchi/ugozchi/blob/main/42_badges/get_next_linem.png)</a>
+<a href="https://github.com/ugozchi/42_Ft_Printf">![42 Badge](https://github.com/ugozchi/ugozchi/blob/main/42_badges/ft_printfm.png)</a>
+<a href="https://github.com/ugozchi/42_Born2beRoot">![42 Badge](https://github.com/ugozchi/ugozchi/blob/main/42_badges/born2berootm.png)</a>
+<a href="https://github.com/ugozchi/42_Pipex">![42 Badge](https://github.com/ugozchi/ugozchi/blob/main/42_badges/pipexm.png)</a>
+<a href="https://github.com/ugozchi/42_Push_swap">![42 Badge](https://github.com/ugozchi/ugozchi/blob/main/42_badges/push_swapm.png)</a>
 
 <!--GitHub stats-->
 <h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width = 30px>  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=190&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=false&width=165&height=30&lines=Github+stats" alt="Typing SVG" /></a> <img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width = 30px></h1>
