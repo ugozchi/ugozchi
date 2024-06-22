@@ -1,8 +1,6 @@
 <!-- Heading -->
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D9F7F2&background=1B4BFF00&center=true&random=false&width=435&lines=Hi+there+!+I'm+Ugo+%F0%9F%91%8B%F0%9F%8F%BD;A+42+Paris+student+%F0%9F%A4%96" alt="Typing SVG" /></a>
 
-<img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width = 30px> Hi there! I'm Ugo</h1>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/ugo-zanchi/" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-Ugo%20ZANCHI-blue?logo=LinkedIn">
