@@ -58,7 +58,7 @@
       <!-- First logo -->
       <td align="center" style="width: 50%;">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,docker,github,vscode" height="60">
+          <img src="https://skillicons.dev/icons?i=git,docker,github,vscode" height="300">
         </a>
       </td>
       <!-- Second logo -->
