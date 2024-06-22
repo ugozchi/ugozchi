@@ -13,13 +13,6 @@
 <!--Skills-->
 <h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Maracas.png" width = 30px> My skills</h1>
 
-<p align="center">
-  <a width = 30x> Languages</h1>
-[![My Skills](https://skillicons.dev/icons?i=js,html,c,python)]
-  <a width = 30x> Front-End Developpment :</h1>
-    <br>
-  <a width = 30x> Back-End Developpment :</h1>
-    <br>
-  <a width = 30x> Software and Tools :</h1>
-    <br>
-</p>
+## Skills
+#### Languages:
+[![languages](https://skillicons.dev/icons?i=python,c,javascript)](#)
