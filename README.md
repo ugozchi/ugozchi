@@ -72,7 +72,7 @@
 ### Finish
 <div align="center">
 
-<a href="https://github.com/ugozchi/42_Libft">![42 Badge](https://github.com/ugozchi/ugozchi/blob/main/42_badges/libftm.shpng)</a>
+<a href="https://github.com/ugozchi/42_Libft">![42 Badge](https://github.com/ugozchi/ugozchi/blob/main/42_badges/libftm.png)</a>
 <a href="https://github.com/ugozchi/42_Get_Next_Line">![42 Badge](https://github.com/ugozchi/ugozchi/blob/main/42_badges/get_next_linem.png)</a>
 <a href="https://github.com/ugozchi/42_Ft_Printf">![42 Badge](https://github.com/ugozchi/ugozchi/blob/main/42_badges/ft_printfe.png)</a>
 
