@@ -71,7 +71,7 @@
 
 
 <!--GitHub stats-->
-<h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width = 30px> <p style="Fira Code;">GitHub stats</h1>
+<h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width = 30px> GitHub stats</h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ugozchi&show_icons=true&theme=radical" alt="Ugo's GitHub Stats" height="180em" style="margin-right: 30px;">
 </p>
