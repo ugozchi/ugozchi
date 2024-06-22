@@ -63,7 +63,7 @@
       </td>
       <!-- Second logo -->
       <td align="center" style="width: 50%;">
-        <a href=""https://skillicons.dev>
+        <a href="https://skillicons.dev">
           <img src=""https://skillicons.dev/icons?i=react height="60">
         </a>
       </td>
