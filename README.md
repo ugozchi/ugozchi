@@ -15,7 +15,7 @@
 
 <p align="center">
   <a width = 30x> Languages</h1>
-    [![My Skills](https://skillicons.dev/icons?i=js,html,c,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,c,python)](https://skillicons.dev)
   <a width = 30x> Front-End Developpment :</h1>
     <br>
   <a width = 30x> Back-End Developpment :</h1>
