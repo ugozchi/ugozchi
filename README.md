@@ -11,7 +11,7 @@
 </p>
 
 <!--Skills-->
-<h1 align="center"><img src = "https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Comet.png" width = 30px> My skills <img src = "https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Comet.png" width = 30px></h1>
+<h1 align="center"><img src = "https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Comet.png" width = 30px>  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=My+skills" alt="Typing SVG" /></a> <img src = "https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Comet.png" width = 30px></h1>
 
 <p align="center">
   <table align="center">
