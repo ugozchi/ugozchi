@@ -58,7 +58,7 @@
       <!-- First logo -->
       <td align="center" style="width: 50%;">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,docker,github,vscode" height="60">
+          <img src="https://skillicons.dev/icons?i=c,html,python" height="60">
         </a>
       </td>
       <!-- Second logo -->
@@ -68,5 +68,30 @@
         </a>
       </td>
     </tr>
+        <tr>
+      <!-- Text for third logo -->
+      <td align="center" style="width: 50%;">
+        <strong>Softwares and Tools</strong>
+      </td>
+      <!-- Text for 4 logo -->
+      <td align="center" style="width: 50%;">
+        <strong>Back-End Development</strong>
+      </td>
+    </tr>
+    <tr>
+      <!-- 3rd logo -->
+      <td align="center" style="width: 50%;">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=git,docker,github,vscode" height="60">
+        </a>
+      </td>
+      <!-- 4th logo -->
+      <td align="center" style="width: 50%;">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=django" height="60">
+        </a>
+      </td>
+    </tr>
+
   </table>
 </p>
