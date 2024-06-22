@@ -74,5 +74,5 @@
 <h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width = 30px> GitHub stats</h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ugozchi&show_icons=true&theme=radical" alt="Ugo's GitHub Stats" height="180em" style="margin-right: 30px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugozchi&theme=radical&hide=html,css,makefile,dockerfile,shell" alt="Top Langs" height="180em" style="margin-left: 30px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugozchi&theme=radical&hide=html,css,makefile,dockerfile,shell" alt="Top Langs" height="180em" style="margin-left: 25px;">
 </p>
