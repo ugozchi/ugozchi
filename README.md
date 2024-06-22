@@ -11,7 +11,7 @@
 </p>
 
 <!--Skills-->
-<h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Maracas.png" width = 30px> My skills</h1>
+<h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Maracas.png" width = 30px> My skills<img src = https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Writing%20Hand%20Light%20Skin%20Tone.png></h1>
 
 <p align="center">
   <table align="center">
@@ -53,7 +53,7 @@
       <!-- 3rd logo -->
       <td align="center" style="width: 50%;">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,docker,github,vscode&perline=3") height="60">
+          <img src="https://skillicons.dev/icons?i=git,docker,github,vscode"&perline=3) height="60">
         </a>
       </td>
       <!-- 4th logo -->
