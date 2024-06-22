@@ -19,4 +19,12 @@
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="60">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="60">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="60">
+    <br />
+    <br />
+  <a width = 30x> Front-End Developpment :</h1>
+    <br />
+  <a width = 30x> Back-End Developpment :</h1>
+    <br />
+  <a width = 30x> Software and Tools :</h1>
+    <br />
 </p>
