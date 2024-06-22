@@ -14,13 +14,37 @@
 <h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Maracas.png" width = 30px> My skills</h1>
 
 #### Languages:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,javascript" />
+  </a>
+</p>
+
 [![languages](https://skillicons.dev/icons?i=python,c,javascript)](#)
 
 #### Front-End Development:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+</p>
+
 [![front](https://skillicons.dev/icons?i=react)](#)
 
 #### Back-End Development:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django" />
+  </a>
+</p>
+
 [![back](https://skillicons.dev/icons?i=django)](#)
 
 #### Softwares and Tools:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,github,vscode" />
+  </a>
+</p>
+
 [![tools](https://skillicons.dev/icons?i=git,docker,github,vscode)](#)
