@@ -15,12 +15,13 @@
 
 #### Languages:
 <p align="center">
+  Languages
+</p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,python,javascript" />
   </a>
 </p>
-
-[![languages](https://skillicons.dev/icons?i=python,c,javascript)](#)
 
 #### Front-End Development:
 <p align="center">
@@ -29,8 +30,6 @@
   </a>
 </p>
 
-[![front](https://skillicons.dev/icons?i=react)](#)
-
 #### Back-End Development:
 <p align="center">
   <a href="https://skillicons.dev">
@@ -38,13 +37,9 @@
   </a>
 </p>
 
-[![back](https://skillicons.dev/icons?i=django)](#)
-
 #### Softwares and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,github,vscode" />
   </a>
 </p>
-
-[![tools](https://skillicons.dev/icons?i=git,docker,github,vscode)](#)
