@@ -69,19 +69,23 @@
 
 <!--Projects-->
 
+### In progress
+<div align="center">
+
+<a href="https://github.com/ugozchi/42_Philosopher">![42 Badge](https://github.com/ugozchi/ugozchi/blob/main/42_badges/philosophersn.png)</a>
+<a href="https://github.com/ugozchi/42_Minishell">![42 Badge](https://github.com/ugozchi/ugozchi/blob/main/42_badges/minishelln.png)</a>
+
 ### Finish
 <div align="center">
 
 <a href="https://github.com/ugozchi/42_Libft">![42 Badge](https://github.com/ugozchi/ugozchi/blob/main/42_badges/libftm.png)</a>
 <a href="https://github.com/ugozchi/42_Get_Next_Line">![42 Badge](https://github.com/ugozchi/ugozchi/blob/main/42_badges/get_next_linem.png)</a>
 <a href="https://github.com/ugozchi/42_Ft_Printf">![42 Badge](https://github.com/ugozchi/ugozchi/blob/main/42_badges/ft_printfe.png)</a>
+<a href="https://github.com/ugozchi/42_Born2beRoot">![42 Badge](https://github.com/ugozchi/ugozchi/blob/main/42_badges/born2beroote.png)</a>
+<a href="https://github.com/ugozchi/42_Push_Swap">![42 Badge](https://github.com/ugozchi/ugozchi/blob/main/42_badges/push_swape.png)</a>
+<a href="https://github.com/ugozchi/42_Minitalk">![42 Badge](https://github.com/ugozchi/ugozchi/blob/main/42_badges/minitalkm.png)</a>
+<a href="https://github.com/ugozchi/42_So_Long">![42 Badge](https://github.com/ugozchi/ugozchi/blob/main/42_badges/so_longm.png)</a>
 
-### In progress
-<div align="center">
-
-<a href="https://github.com/ugozchi/42_Born2beRoot">![42 Badge](https://github.com/ugozchi/ugozchi/blob/main/42_badges/born2berootn.png)</a>
-<a href="https://github.com/ugozchi/42_Pipex">![42 Badge](https://github.com/ugozchi/ugozchi/blob/main/42_badges/pipexn.png)</a>
-<a href="https://github.com/ugozchi/42_Push_swap">![42 Badge](https://github.com/ugozchi/ugozchi/blob/main/42_badges/push_swapn.png)</a>
 
 <!--GitHub stats-->
 <h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width = 30px>  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=190&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=false&width=165&height=30&lines=Github+stats" alt="Typing SVG" /></a> <img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width = 30px></h1>
