@@ -19,7 +19,7 @@
 
 - 🎓 **Étudiant** à [42 Paris](https://42.fr)
 - 💼 **En train de développer des projets Full Stack**, utilisant **React** et **Django**.
-- 📈 **Passionné par l'open-source** et toujours à la recherche de nouvelles contributions.
+- 📈 **Passionné par la finance et le développement et toujours à la recherche de nouvelles contributions.
 - 🌱 **Je suis en train d’apprendre** des outils DevOps comme **Docker** et **Kubernetes**.
 
 
