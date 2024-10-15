@@ -141,8 +141,8 @@
 <br>
 
 <!--Contact-->
-<h3 align="center">Contribuons ensemble !</h3>
-<p align="center">N'hésite pas à soumettre des issues, des PRs, ou simplement à me contacter si tu veux collaborer sur un projet. Ensemble, nous pouvons construire des choses incroyables 🚀</p>
+<h3 align="center">Let's contribute together!</h3>
+<p align="center">Feel free to submit issues, PRs, or just contact me if you want to collaborate on a project. Together we can build amazing things. 🚀</p>
 <p align="center">
-  <a href="mailto:tonmail@example.com">📧 Me contacter</a>
+  <a href="ugozanchi5@gmail.com">📧 Contact</a>
 </p>
