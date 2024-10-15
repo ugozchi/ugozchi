@@ -89,7 +89,7 @@
     <!-- In Progress Projects -->
     <h3>In Progress</h3>
     <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-      <a href="https://github.com/ugozchi/42_Philosopher"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/philosophersn.png" alt="Philosophers Badge" width="120"></a>
+      <a href="https://github.com/ugozchi/42_Philosophers"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/philosophersn.png" alt="Philosophers Badge" width="120"></a>
       <a href="https://github.com/ugozchi/42_Minishell"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/minishelln.png" alt="Minishell Badge" width="120"></a>
     </div>
     <!-- Finished Projects -->
