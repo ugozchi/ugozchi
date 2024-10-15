@@ -16,14 +16,6 @@
 </p>
 <br>
 
-<!-- About me -->
-## 👨‍💻 About Me
-
-- 🎓 **Student** at [42 Paris](https://42.fr)
-- 📈 **Passionate about **finance** and **development** and always looking for new projects.
-- 🌱 **I am currently learning** DevOps tools like **Docker** and **Kubernetes**.
-
-<br>
 
 <!--Skills Section-->
 <h1 align="center">
