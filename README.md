@@ -126,7 +126,6 @@
 </h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ugozchi&show_icons=true&theme=radical" alt="Ugo's GitHub Stats" height="180em" style="margin-right: 30px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ugozchi&theme=radical" alt="GitHub Streak" height="180em">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugozchi&theme=radical&layout=compact" alt="Langues les plus utilisées" height="180em">
 </p>
 
