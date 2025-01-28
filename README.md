@@ -91,7 +91,6 @@
       <a href="https://github.com/ugozchi/42_Minishell"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/cppn.png" alt="CPP Badge" width="120"></a>
       <a href="https://github.com/ugozchi/42_Minishell"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/netpracticen.png" alt="Net Practice Badge" width="120"></a>
       <a href="https://github.com/ugozchi/42_Minishell"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/cub3dn.png" alt="Cub3d Badge" width="120"></a>
-      cub3dn.png
     </div>
     <!-- Finished Projects -->
     <h3>Finished</h3>
