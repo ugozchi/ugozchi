@@ -88,7 +88,7 @@
     <!-- In Progress Projects -->
     <h3>In Progress</h3>
     <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-      <a href="https://github.com/ugozchi/42_Minishell"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/cppn.png" alt="CPP Badge" width="120"></a>
+      <a href="https://github.com/ugozchi/42_CPP"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/cppn.png" alt="CPP Badge" width="120"></a>
       <a href="https://github.com/ugozchi/42_Minishell"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/netpracticen.png" alt="Net Practice Badge" width="120"></a>
       <a href="https://github.com/ugozchi/42_Minishell"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/cub3dn.png" alt="Cub3d Badge" width="120"></a>
     </div>
