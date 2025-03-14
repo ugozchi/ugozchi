@@ -1,9 +1,10 @@
 <!-- Heading -->
 <br>
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=D9F7F2&background=1B4BFF00&center=true&random=false&width=435&lines=Hi+there+!+I'm+Ugo+%F0%9F%91%8B%F0%9F%8F%BD;A+42+Paris+student+%F0%9F%A4%96" alt="Typing SVG" />
-  </a>
+  <p align="center">
+  <img src=".media/présentation.png" alt="Présentation de Ugo" width="100%">
+</p>
+
   
 <p align="center">
   <a href="https://www.linkedin.com/in/ugo-zanchi/" target="_blank">
