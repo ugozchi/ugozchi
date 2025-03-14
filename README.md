@@ -2,7 +2,7 @@
 <br>
 <h1 align="center">
   <p align="center">
-  <img src="./.media/presentation.png" alt="Présentation de Ugo" width="100%">
+  <img src="./.media/presentation.png" alt="Présentation de Ugo" width="90%" style="height: 350px; object-fit: cover;">
 </p>
 
   
