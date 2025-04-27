@@ -105,7 +105,7 @@
       <a href="https://github.com/ugozchi/42_So_Long"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/so_longm.png" alt="So Long Badge" width="120"></a>
       <a href="https://github.com/ugozchi/42_Philosophers"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/philosopherse.png" alt="Philosophers Badge" width="120"></a>
       <a href="https://github.com/ugozchi/42_Minishell"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/minishelle.png" alt="Minishell Badge" width="120"></a>
-      <a href="https://github.com/ugozchi/42_NetPractice"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/netpracticen.png" alt="Net Practice Badge" width="120"></a>
+      <a href="https://github.com/ugozchi/42_NetPractice"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/netpracticem.png" alt="Net Practice Badge" width="120"></a>
     </div>
   </div>
 
