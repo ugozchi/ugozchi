@@ -90,8 +90,8 @@
     <h3>In Progress</h3>
     <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
       <a href="https://github.com/ugozchi/42_CPP"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/cppn.png" alt="CPP Badge" width="120"></a>
-      <a href="https://github.com/ugozchi/42_NetPractice"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/netpracticen.png" alt="Net Practice Badge" width="120"></a>
-      <a href="https://github.com/ugozchi/42_Minishell"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/cub3dn.png" alt="Cub3d Badge" width="120"></a>
+      a href="https://github.com/ugozchi/42_MiniRT"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/minirtn.png" alt="MiniRT Badge" width="120"></a>
+      <a href="https://github.com/ugozchi/42_IRC"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/ircn.png" alt="IRC Badge" width="120"></a>
     </div>
     <!-- Finished Projects -->
     <h3>Finished</h3>
@@ -105,6 +105,7 @@
       <a href="https://github.com/ugozchi/42_So_Long"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/so_longm.png" alt="So Long Badge" width="120"></a>
       <a href="https://github.com/ugozchi/42_Philosophers"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/philosopherse.png" alt="Philosophers Badge" width="120"></a>
       <a href="https://github.com/ugozchi/42_Minishell"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/minishelle.png" alt="Minishell Badge" width="120"></a>
+      <a href="https://github.com/ugozchi/42_NetPractice"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/netpracticen.png" alt="Net Practice Badge" width="120"></a>
     </div>
   </div>
 
