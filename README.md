@@ -90,7 +90,7 @@
     <h3>In Progress</h3>
     <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
       <a href="https://github.com/ugozchi/42_CPP"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/cppn.png" alt="CPP Badge" width="120"></a>
-      a href="https://github.com/ugozchi/42_MiniRT"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/minirtn.png" alt="MiniRT Badge" width="120"></a>
+      <a href="https://github.com/ugozchi/42_MiniRT"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/minirtn.png" alt="MiniRT Badge" width="120"></a>
       <a href="https://github.com/ugozchi/42_IRC"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/ft_ircn.png" alt="IRC Badge" width="120"></a>
     </div>
     <!-- Finished Projects -->
