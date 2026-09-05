@@ -130,8 +130,12 @@
   <img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width = 30px>
 </h1>
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ugozchi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Ugo's GitHub Statss" height="165" style="margin: 5px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugozchi&theme=radical&layout=compact" alt="Langues les plus utilisées" height="180em">
+  <img src="https://github-stats-extended.vercel.app/api?username=ugozchi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Ugo's GitHub Stats" height="165" style="margin: 5px;" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ugozchi&theme=radical&hide_border=true&layout=compact" alt="Most Used Languages" height="165" style="margin: 5px;" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ugozchi&theme=radical&hide_border=true" alt="GitHub Streak Stats" height="165" style="margin: 5px;" />
 </p>
 
 <br>
