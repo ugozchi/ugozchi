@@ -130,7 +130,7 @@
   <img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width = 30px>
 </h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ugozchi&show_icons=true&theme=radical" alt="Ugo's GitHub Stats" height="180em" style="margin-right: 30px;">
+  <img src="https://github-stats-extended.vercel.app/api?username=ugozchi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Ugo's GitHub Statss" height="165" style="margin: 5px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugozchi&theme=radical&layout=compact" alt="Langues les plus utilisées" height="180em">
 </p>
 
