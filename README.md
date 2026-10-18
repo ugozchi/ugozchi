@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ugozchi/ugozchi/main/assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ugozchi/ugozchi/main/assets/banner-light.svg">
-  <img alt="Ugo Zanchi, Data Engineer and Software Developer" src="https://raw.githubusercontent.com/ugozchi/ugozchi/main/assets/banner-light.svg" width="100%">
+  <img alt="Ugo Zanchi, Chief of Staff to the CEO at Lucky Cart" src="https://raw.githubusercontent.com/ugozchi/ugozchi/main/assets/banner-light.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -11,84 +11,24 @@
 
 ## About
 
-I work where data, software and AI meet: I build the pipelines that move data, the apps people use on top of it, and the agents that act on it.
+I'm Chief of Staff and right hand to the CEO at [Lucky Cart](https://www.luckycart.com). I work on strategy and execution, and I build a lot of what that takes myself: data pipelines, software and AI agents.
 
-- **Now:** Data Engineer at [Lucky Cart](https://www.luckycart.com)
-- **Also:** building **AI Ecoscore** for LVMH, a tool that measures the environmental footprint of AI projects across the group's Maisons
-- **Background:** [42 Paris](https://42.fr) Common Core, where I learned C, C++, Unix and networking from first principles
-
-## Stack
-
-<p>
-  <img alt="Python, TypeScript, React, Next.js, FastAPI, C, C++, Docker, GCP, PostgreSQL, Supabase, Linux, Git" src="https://skillicons.dev/icons?i=python,ts,react,nextjs,fastapi,c,cpp,docker,gcp,postgres,supabase,linux,git&perline=13" height="44">
-</p>
-
-<table>
-  <tr>
-    <td><b>Data</b></td>
-    <td>Python · SQL · pandas · scikit-learn · XGBoost · BigQuery · Parquet · Jupyter</td>
-  </tr>
-  <tr>
-    <td><b>AI & agents</b></td>
-    <td>Model Context Protocol (FastMCP) · Dust · Vertex AI / Gemini · information retrieval</td>
-  </tr>
-  <tr>
-    <td><b>Software</b></td>
-    <td>TypeScript · React · Next.js · FastAPI · Node.js · C / C++</td>
-  </tr>
-  <tr>
-    <td><b>Infra</b></td>
-    <td>Docker · GCP · Supabase / PostgreSQL · Vercel · GitHub Actions · Linux</td>
-  </tr>
-</table>
+- Building **AI Ecoscore** for LVMH, a tool that measures the environmental footprint of AI projects across the group's Maisons
+- Trained at **[42 Paris](https://42.fr)**, where I learned C, C++, Unix and networking from first principles
 
 ## Featured projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+<p>
+<a href="https://github.com/ugozchi/zendesk-mcp"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ugozchi/ugozchi/main/assets/project-zendesk-mcp-dark.svg"><img alt="zendesk-mcp: MCP server that gives Dust agents full access to Zendesk Support" src="https://raw.githubusercontent.com/ugozchi/ugozchi/main/assets/project-zendesk-mcp-light.svg" width="50%"></picture></a><a href="https://github.com/ugozchi/VolatilityInfrastructurePlateform"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ugozchi/ugozchi/main/assets/project-volatility-platform-dark.svg"><img alt="Volatility Platform: options data pipeline on the S&P 500" src="https://raw.githubusercontent.com/ugozchi/ugozchi/main/assets/project-volatility-platform-light.svg" width="50%"></picture></a><br>
+<a href="https://github.com/ugozchi/ORI_l-Etudiant"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ugozchi/ugozchi/main/assets/project-ori-dark.svg"><img alt="ORI, L'Étudiant: AI-assisted study-orientation platform" src="https://raw.githubusercontent.com/ugozchi/ugozchi/main/assets/project-ori-light.svg" width="50%"></picture></a><a href="https://github.com/ugozchi/AS_Supervised_Learning"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ugozchi/ugozchi/main/assets/project-company-forecast-dark.svg"><img alt="Company Results Forecast: predicting the net income of French companies" src="https://raw.githubusercontent.com/ugozchi/ugozchi/main/assets/project-company-forecast-light.svg" width="50%"></picture></a>
+</p>
 
-**[Volatility Infrastructure Platform](https://github.com/ugozchi/VolatilityInfrastructurePlateform)**
+## Stack
 
-Options data platform on the S&P 500. Pulls spot prices and option chains from Interactive Brokers, solves implied volatility, computes Greeks and volatility surfaces, and serves them through an API and a Plotly dashboard.
-
-`Python` `FastAPI` `SciPy` `Parquet` `IBKR API`
-
-</td>
-    <td width="50%" valign="top">
-
-**[zendesk-mcp](https://github.com/ugozchi/zendesk-mcp)**
-
-MCP server that gives Dust agents full access to Zendesk Support: tickets, users, macros, views and Help Center. Stateless, stores no secrets, and handles Zendesk rate limits on its own.
-
-`Python 3.13` `FastMCP` `Docker` `OAuth`
-
-</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-**[ORI · L'Étudiant](https://github.com/ugozchi/ORI_l-Etudiant)**
-
-AI-assisted study-orientation platform. Gamified cognitive tests build a student persona; Gemini then drafts CVs and cover letters, and a chat agent gives tailored guidance.
-
-`Next.js` `FastAPI` `Vertex AI` `Supabase`
-
-</td>
-    <td width="50%" valign="top">
-
-**[Predicting company results](https://github.com/ugozchi/AS_Supervised_Learning)**
-
-Forecasts the next-year net income of French companies from SIRENE and INPI open data: about 500k company-years (2016 to 2022), a reproducible `make` pipeline and a hybrid XGBoost classifier and regressor.
-
-`Python` `pandas` `XGBoost` `scikit-learn`
-
-</td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ugozchi/ugozchi/main/assets/stack-dark.svg">
+  <img alt="Data: Python, SQL, pandas, scikit-learn, BigQuery, Jupyter, Parquet. AI and agents: Claude API, MCP servers, Gemini and Vertex AI, Dust agents. Software: TypeScript, React, Next.js, Tailwind CSS, FastAPI, Node.js, C and C++. Infra: Docker, Google Cloud, PostgreSQL, Supabase, Vercel, GitHub Actions, Linux." src="https://raw.githubusercontent.com/ugozchi/ugozchi/main/assets/stack-light.svg" width="100%">
+</picture>
 
 <details>
 <summary><b>Foundations: 42 Paris Common Core</b> (C, C++, Unix, networking)</summary>

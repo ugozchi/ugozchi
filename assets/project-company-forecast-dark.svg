@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432" height="226" viewBox="0 0 432 226" role="img" aria-label="Company Results Forecast: Forecasts the next-year net income of French companies from SIRENE and INPI open data: about 500k company-years and a hybrid XGBoost model.">
+<title>Company Results Forecast: Forecasts the next-year net income of French companies from SIRENE and INPI open data: about 500k company-years and a hybrid XGBoost model.</title>
+<g transform="translate(6 6)">
+<style>.sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }.mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }</style>
+<rect x="0.5" y="0.5" width="419" height="213" rx="11.5" fill="#0D1117" stroke="#30363D"/>
+<text x="24" y="38" class="mono" font-size="11" letter-spacing="1.5" fill="#2DD4BF">MACHINE LEARNING</text>
+<path d="M386 38 L396 28 M389 28 H396 V35" fill="none" stroke="#8B949E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="24" y="70" class="sans" font-size="20" font-weight="600" fill="#E6EDF3">Company Results Forecast</text>
+<text x="24" y="98" class="sans" font-size="14" fill="#C9D1D9">Forecasts the next-year net income of French</text>
+<text x="24" y="119" class="sans" font-size="14" fill="#C9D1D9">companies from SIRENE and INPI open data: about</text>
+<text x="24" y="140" class="sans" font-size="14" fill="#C9D1D9">500k company-years and a hybrid XGBoost model.</text>
+<rect x="24" y="164" width="63" height="26" rx="6" fill="#161B22" stroke="#30363D"/>
+<text x="55.5" y="181" class="mono" font-size="12" text-anchor="middle" fill="#C9D1D9">Python</text>
+<rect x="95" y="164" width="63" height="26" rx="6" fill="#161B22" stroke="#30363D"/>
+<text x="126.5" y="181" class="mono" font-size="12" text-anchor="middle" fill="#C9D1D9">pandas</text>
+<rect x="166" y="164" width="70" height="26" rx="6" fill="#161B22" stroke="#30363D"/>
+<text x="201" y="181" class="mono" font-size="12" text-anchor="middle" fill="#C9D1D9">XGBoost</text>
+<rect x="244" y="164" width="106" height="26" rx="6" fill="#161B22" stroke="#30363D"/>
+<text x="297" y="181" class="mono" font-size="12" text-anchor="middle" fill="#C9D1D9">scikit-learn</text>
+</g>
+</svg>
