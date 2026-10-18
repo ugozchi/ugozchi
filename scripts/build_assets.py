@@ -45,6 +45,44 @@ THEMES = {
 
 # ---------------------------------------------------------------- content
 
+NAME = "Ugo Zanchi"
+ROLE = "Right hand to the CEO and the Chief of Staff"
+BANNER_KICKER = "LUCKY CART · PARIS"
+# Banner diagram: who I work for → me → what I build. Values are node centres (y).
+BANNER_INPUTS = [("ceo", 125), ("chief of staff", 195)]
+BANNER_HUB = "ugo"
+BANNER_OUTPUTS = [("data", 102), ("software", 160), ("ai", 218)]
+
+ABOUT = [
+    {
+        "label": "NOW",
+        "title": "Lucky Cart",
+        "lines": [
+            "Right hand to the CEO and the",
+            "Chief of Staff, while building",
+            "data, software and AI tools.",
+        ],
+    },
+    {
+        "label": "ALSO BUILDING",
+        "title": "AI Ecoscore × LVMH",
+        "lines": [
+            "Measures the environmental",
+            "footprint of AI projects across",
+            "the LVMH Maisons.",
+        ],
+    },
+    {
+        "label": "FOUNDATIONS",
+        "title": "42 Paris",
+        "lines": [
+            "C, C++, Unix and networking,",
+            "learned from first principles",
+            "through peer-to-peer projects.",
+        ],
+    },
+]
+
 PROJECTS = [
     {
         "slug": "zendesk-mcp",
@@ -144,7 +182,7 @@ def style_block(extra=""):
 
 def frame(width, height, t, radius=12):
     return (
-        f'<rect x="0.5" y="0.5" width="{width - 1}" height="{height - 1}" rx="{radius - 0.5}" '
+        f'<rect x="0.5" y="0.5" width="{width - 1:g}" height="{height - 1:g}" rx="{radius - 0.5}" '
         f'fill="{t["page"]}" stroke="{t["border"]}"/>'
     )
 
@@ -188,15 +226,13 @@ def pill_width(label, char_width=7.2, padding=20):
 
 def banner(t):
     w, h = 1200, 320
-    edges = [
-        "M800 102 C826 102 826 160 852 160",
-        "M800 160 L852 160",
-        "M800 218 C826 218 826 160 852 160",
-        "M980 160 C1008 160 1008 122 1036 122",
-        "M980 160 C1008 160 1008 198 1036 198",
-    ]
-    sources = [("api", 86), ("sql", 144), ("events", 202)]
-    outputs = [("dashboard", 106), ("agent", 182)]
+    # The diagram tells the role: working for the CEO and the Chief of Staff,
+    # and shipping data, software and AI along the way.
+    left_x, left_w = 680, 150
+    hub_x, hub_w = 884, 96
+    right_x, right_w = 1036, 112
+    edges = [f"M{left_x + left_w} {y} C857 {y} 857 160 {hub_x} 160" for _, y in BANNER_INPUTS]
+    edges += [f"M{hub_x + hub_w} 160 C1008 160 1008 {y} {right_x} {y}" for _, y in BANNER_OUTPUTS]
 
     animation = (
         ".flow { stroke-dasharray: 4 8; animation: flow 1.6s linear infinite; }"
@@ -220,14 +256,13 @@ def banner(t):
         frame(w, h, t, radius=16),
         f'<rect x="1" y="1" width="{w - 2}" height="{h - 2}" rx="15" fill="url(#dots)" mask="url(#fade-mask)"/>',
         # Identity
-        f'<text x="72" y="77" class="mono" font-size="14" letter-spacing="3" fill="{t["muted"]}">PARIS · FRANCE</text>',
-        f'<text x="70" y="143" class="sans" font-size="60" font-weight="700" letter-spacing="-1.5" fill="{t["title"]}">Ugo Zanchi</text>',
-        f'<text x="72" y="189" class="sans" font-size="26" fill="{t["text"]}">Chief of Staff to the CEO '
-        f'<tspan fill="{t["accent"]}">·</tspan> Lucky Cart</text>',
-        f'<rect x="72" y="213" width="40" height="3" rx="1.5" fill="{t["accent"]}"/>',
-        f'<text x="72" y="251" class="mono" font-size="16" fill="{t["muted"]}">'
-        f'<tspan fill="{t["accent"]}">$</tspan> <tspan fill="{t["text"]}">ship</tspan> --data --software --ai</text>',
-        # Data flow: sources → pipeline → outputs
+        f'<text x="72" y="96" class="mono" font-size="14" letter-spacing="3" fill="{t["muted"]}">'
+        f"{escape(BANNER_KICKER)}</text>",
+        f'<text x="70" y="162" class="sans" font-size="60" font-weight="700" letter-spacing="-1.5" fill="{t["title"]}">'
+        f"{escape(NAME)}</text>",
+        f'<text x="72" y="206" class="sans" font-size="24" fill="{t["text"]}">{escape(ROLE)}</text>',
+        f'<rect x="72" y="230" width="40" height="3" rx="1.5" fill="{t["accent"]}"/>',
+        # Flow: inputs → hub → outputs
         f'<g fill="none" stroke-width="1.5" stroke="{t["border"]}">'
         + "".join(f'<path d="{d}"/>' for d in edges)
         + "</g>",
@@ -236,61 +271,82 @@ def banner(t):
         + "</g>",
         f'<g class="mono" font-size="14" text-anchor="middle" fill="{t["text"]}">',
     ]
-    for label, y in sources:
-        body.append(f'<rect x="704" y="{y}" width="96" height="32" rx="8" {node}/>')
-        body.append(f'<text x="752" y="{y + 21}">{label}</text>')
+    for label, y in BANNER_INPUTS:
+        body.append(f'<rect x="{left_x}" y="{y - 16}" width="{left_w}" height="32" rx="8" {node}/>')
+        body.append(f'<text x="{left_x + left_w / 2:g}" y="{y + 5}">{escape(label)}</text>')
     body += [
-        f'<rect x="852" y="140" width="128" height="40" rx="10" fill="{t["surface"]}" stroke="{t["accent"]}" stroke-width="1.5"/>',
-        f'<circle cx="870" cy="160" r="3.5" fill="{t["accent"]}" class="pulse"/>',
-        f'<text x="924" y="165" fill="{t["title"]}">pipeline</text>',
+        f'<rect x="{hub_x}" y="140" width="{hub_w}" height="40" rx="10" fill="{t["surface"]}" '
+        f'stroke="{t["accent"]}" stroke-width="1.5"/>',
+        f'<circle cx="{hub_x + 18}" cy="160" r="3.5" fill="{t["accent"]}" class="pulse"/>',
+        f'<text x="{hub_x + hub_w / 2 + 8:g}" y="165" fill="{t["title"]}">{escape(BANNER_HUB)}</text>',
     ]
-    for label, y in outputs:
-        body.append(f'<rect x="1036" y="{y}" width="112" height="32" rx="8" {node}/>')
-        body.append(f'<text x="1092" y="{y + 21}">{label}</text>')
+    for label, y in BANNER_OUTPUTS:
+        body.append(f'<rect x="{right_x}" y="{y - 16}" width="{right_w}" height="32" rx="8" {node}/>')
+        body.append(f'<text x="{right_x + right_w / 2:g}" y="{y + 5}">{escape(label)}</text>')
     body.append("</g>")
 
-    return svg(
-        w, h, "Ugo Zanchi, Chief of Staff to the CEO at Lucky Cart", "\n".join(body),
-        margin=full_width_margin(w),
-    )
+    return svg(w, h, f"{NAME}, {ROLE} at Lucky Cart", "\n".join(body), margin=full_width_margin(w))
 
 
 # ---------------------------------------------------------------- project cards
 
 
-def project_card(project, t):
-    # Cards sit side by side at 50% width with no whitespace between them,
-    # so the gutter is drawn as a transparent margin inside each SVG.
-    w, h, pad = CARD_WIDTH, 214, 24
+def card(t, w, h, label, title, lines, pills=(), arrow=False, x=0, y=0):
+    pad = 24
     body = [
-        style_block(),
+        f'<g transform="translate({x:g} {y:g})">',
         frame(w, h, t),
         f'<text x="{pad}" y="38" class="mono" font-size="11" letter-spacing="1.5" fill="{t["accent"]}">'
-        f'{escape(project["label"])}</text>',
-        # "Open" arrow in the top-right corner
-        f'<path d="M{w - pad - 10} 38 L{w - pad} 28 M{w - pad - 7} 28 H{w - pad} V35" '
-        f'fill="none" stroke="{t["muted"]}" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>',
+        f"{escape(label)}</text>",
         f'<text x="{pad}" y="70" class="sans" font-size="20" font-weight="600" fill="{t["title"]}">'
-        f'{escape(project["title"])}</text>',
+        f"{escape(title)}</text>",
     ]
-    for i, line in enumerate(project["lines"]):
+    if arrow:
+        body.append(
+            f'<path d="M{w - pad - 10:g} 38 L{w - pad:g} 28 M{w - pad - 7:g} 28 H{w - pad:g} V35" '
+            f'fill="none" stroke="{t["muted"]}" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>'
+        )
+    for i, line in enumerate(lines):
         body.append(
             f'<text x="{pad}" y="{98 + i * 21}" class="sans" font-size="14" fill="{t["text"]}">{escape(line)}</text>'
         )
-    x = pad
-    for label in project["stack"]:
-        width = pill_width(label)
+    px = pad
+    for pill in pills:
+        width = pill_width(pill)
         body.append(
-            f'<rect x="{x}" y="164" width="{width}" height="26" rx="6" fill="{t["surface"]}" stroke="{t["border"]}"/>'
+            f'<rect x="{px}" y="164" width="{width}" height="26" rx="6" fill="{t["surface"]}" stroke="{t["border"]}"/>'
         )
         body.append(
-            f'<text x="{x + width / 2:g}" y="181" class="mono" font-size="12" text-anchor="middle" '
-            f'fill="{t["text"]}">{escape(label)}</text>'
+            f'<text x="{px + width / 2:g}" y="181" class="mono" font-size="12" text-anchor="middle" '
+            f'fill="{t["text"]}">{escape(pill)}</text>'
         )
-        x += width + 8
+        px += width + 8
+    body.append("</g>")
+    return "\n".join(body)
 
+
+def project_card(project, t):
+    # Cards sit side by side at 50% width with no whitespace between them,
+    # so the gutter is drawn as a transparent margin inside each SVG.
+    w, h = CARD_WIDTH, 214
+    body = style_block() + card(
+        t, w, h, project["label"], project["title"], project["lines"], project["stack"], arrow=True
+    )
     summary = f'{project["title"]}: {" ".join(project["lines"])}'
-    return svg(w, h, summary, "\n".join(body), margin=CARD_MARGIN)
+    return svg(w, h, summary, body, margin=CARD_MARGIN)
+
+
+# ---------------------------------------------------------------- about tiles
+
+
+def about_panel(t):
+    w, h, gap = 860, 168, 2 * CARD_MARGIN
+    tile_w = (w - gap * (len(ABOUT) - 1)) / len(ABOUT)
+    body = [style_block()]
+    for i, tile in enumerate(ABOUT):
+        body.append(card(t, tile_w, h, tile["label"], tile["title"], tile["lines"], x=i * (tile_w + gap)))
+    summary = " ".join(f'{tile["title"]}: {" ".join(tile["lines"])}' for tile in ABOUT)
+    return svg(w, h, summary, "\n".join(body), margin=full_width_margin(w))
 
 
 # ---------------------------------------------------------------- stack panel
@@ -332,6 +388,7 @@ def main():
     OUT_DIR.mkdir(exist_ok=True)
     for name, t in THEMES.items():
         (OUT_DIR / f"banner-{name}.svg").write_text(banner(t))
+        (OUT_DIR / f"about-{name}.svg").write_text(about_panel(t))
         (OUT_DIR / f"stack-{name}.svg").write_text(stack_panel(t))
         for project in PROJECTS:
             (OUT_DIR / f"project-{project['slug']}-{name}.svg").write_text(project_card(project, t))

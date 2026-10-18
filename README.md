@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ugozchi/ugozchi/main/assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ugozchi/ugozchi/main/assets/banner-light.svg">
-  <img alt="Ugo Zanchi, Chief of Staff to the CEO at Lucky Cart" src="https://raw.githubusercontent.com/ugozchi/ugozchi/main/assets/banner-light.svg" width="100%">
+  <img alt="Ugo Zanchi, right hand to the CEO and the Chief of Staff at Lucky Cart" src="https://raw.githubusercontent.com/ugozchi/ugozchi/main/assets/banner-light.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -11,10 +11,10 @@
 
 ## About
 
-I'm Chief of Staff and right hand to the CEO at [Lucky Cart](https://www.luckycart.com). I work on strategy and execution, and I build a lot of what that takes myself: data pipelines, software and AI agents.
-
-- Building **AI Ecoscore** for LVMH, a tool that measures the environmental footprint of AI projects across the group's Maisons
-- Trained at **[42 Paris](https://42.fr)**, where I learned C, C++, Unix and networking from first principles
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ugozchi/ugozchi/main/assets/about-dark.svg">
+  <img alt="Now: right hand to the CEO and the Chief of Staff at Lucky Cart, while building data, software and AI tools. Also building: AI Ecoscore for LVMH, which measures the environmental footprint of AI projects across the LVMH Maisons. Foundations: 42 Paris, where I learned C, C++, Unix and networking from first principles." src="https://raw.githubusercontent.com/ugozchi/ugozchi/main/assets/about-light.svg" width="100%">
+</picture>
 
 ## Featured projects
 

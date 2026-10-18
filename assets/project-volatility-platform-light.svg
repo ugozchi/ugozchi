@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="432" height="226" viewBox="0 0 432 226" role="img" aria-label="Volatility Platform: Options data pipeline on the S&amp;P 500: pulls spot and option chains from Interactive Brokers, solves implied volatility, computes Greeks and surfaces.">
 <title>Volatility Platform: Options data pipeline on the S&amp;P 500: pulls spot and option chains from Interactive Brokers, solves implied volatility, computes Greeks and surfaces.</title>
 <g transform="translate(6 6)">
-<style>.sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }.mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }</style>
+<style>.sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }.mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }</style><g transform="translate(0 0)">
 <rect x="0.5" y="0.5" width="419" height="213" rx="11.5" fill="#F6F8FA" stroke="#D0D7DE"/>
 <text x="24" y="38" class="mono" font-size="11" letter-spacing="1.5" fill="#0F766E">DATA ENGINEERING</text>
-<path d="M386 38 L396 28 M389 28 H396 V35" fill="none" stroke="#59636E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="24" y="70" class="sans" font-size="20" font-weight="600" fill="#1F2328">Volatility Platform</text>
+<path d="M386 38 L396 28 M389 28 H396 V35" fill="none" stroke="#59636E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="24" y="98" class="sans" font-size="14" fill="#424A53">Options data pipeline on the S&amp;P 500: pulls spot</text>
 <text x="24" y="119" class="sans" font-size="14" fill="#424A53">and option chains from Interactive Brokers, solves</text>
 <text x="24" y="140" class="sans" font-size="14" fill="#424A53">implied volatility, computes Greeks and surfaces.</text>
@@ -19,5 +19,6 @@
 <text x="272" y="181" class="mono" font-size="12" text-anchor="middle" fill="#424A53">Parquet</text>
 <rect x="315" y="164" width="49" height="26" rx="6" fill="#FFFFFF" stroke="#D0D7DE"/>
 <text x="339.5" y="181" class="mono" font-size="12" text-anchor="middle" fill="#424A53">IBKR</text>
+</g>
 </g>
 </svg>
