@@ -86,7 +86,7 @@ ABOUT = [
 PROJECTS = [
     {
         "slug": "zendesk-mcp",
-        "label": "AI AGENTS",
+        "label": "AI AGENTS · WITH THOMAS ALAPHILIPPE",
         "title": "zendesk-mcp",
         "lines": [
             "MCP server that gives Dust agents full access to",
