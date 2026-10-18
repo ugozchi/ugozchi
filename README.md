@@ -1,148 +1,133 @@
-<!-- Heading -->
-<br>
-<h1 align="center">
-  <p align="center">
-  <img src="./.media/presentation.png" alt="Présentation de Ugo" width="90%" style="height: 350px; object-fit: cover;">
-</p>
-
-  
-<p align="center">
-  <a href="https://www.linkedin.com/in/ugo-zanchi/" target="_blank">
-    <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-Ugo%20ZANCHI-blue?logo=LinkedIn">
-  </a>
-
-  <a href="https://42.fr" target="_blank">
-    <img src="https://img.shields.io/badge/Paris-4aeadc?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAxOC4xLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIg0KCSBpZD0iQ2FscXVlXzEiIHNvZGlwb2RpOmRvY25hbWU9IjQyX2xvZ28uc3ZnIiBpbmtzY2FwZTp2ZXJzaW9uPSIwLjQ4LjIgcjk4MTkiIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyIgeG1sbnM6c3ZnPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6c29kaXBvZGk9Imh0dHA6Ly9zb2RpcG9kaS5zb3VyY2Vmb3JnZS5uZXQvRFREL3NvZGlwb2RpLTAuZHRkIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOmNjPSJodHRwOi8vY3JlYXRpdmVjb21tb25zLm9yZy9ucyMiIHhtbG5zOmlua3NjYXBlPSJodHRwOi8vd3d3Lmlua3NjYXBlLm9yZy9uYW1lc3BhY2VzL2lua3NjYXBlIg0KCSB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAtMjAwIDk2MCA5NjAiDQoJIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAtMjAwIDk2MCA5NjAiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPHBvbHlnb24gaWQ9InBvbHlnb241IiBwb2ludHM9IjMyLDQxMi42IDM2Mi4xLDQxMi42IDM2Mi4xLDU3OCA1MjYuOCw1NzggNTI2LjgsMjc5LjEgMTk3LjMsMjc5LjEgNTI2LjgsLTUxLjEgMzYyLjEsLTUxLjEgDQoJMzIsMjc5LjEgIiBmaWxsPSJ3aGl0ZSIvPg0KPHBvbHlnb24gaWQ9InBvbHlnb243IiBwb2ludHM9IjU5Ny45LDExNC4yIDc2Mi43LC01MS4xIDU5Ny45LC01MS4xICIgZmlsbD0id2hpdGUiLz4NCjxwb2x5Z29uIGlkPSJwb2x5Z29uOSIgcG9pbnRzPSI3NjIuNywxMTQuMiA1OTcuOSwyNzkuMSA1OTcuOSw0NDMuOSA3NjIuNyw0NDMuOSA3NjIuNywyNzkuMSA5MjgsMTE0LjIgOTI4LC01MS4xIDc2Mi43LC01MS4xICIgZmlsbD0id2hpdGUiLz4NCjxwb2x5Z29uIGlkPSJwb2x5Z29uMTEiIHBvaW50cz0iOTI4LDI3OS4xIDc2Mi43LDQ0My45IDkyOCw0NDMuOSAiIGZpbGw9IndoaXRlIi8+DQo8L3N2Zz4NCg0K&label=school" alt="Education badge">
-  </a>
-</p>
-
-
-<!--Skills Section-->
-<h1 align="center">
-  <img src = "https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Comet.png" width = 30px> 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=190&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=false&width=165&height=30&lines=My+Skills" alt="Typing SVG" />
-  </a> 
-  <img src = "https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Comet.png" width = 30px>
-</h1>
-
-<div align="center">
-
-  <div style="display: inline-block; margin: 20px; padding: 15px; border: 3px solid #4caf50; border-radius: 10px; background-color: #1f1f1f; transition: transform 0.3s;">
-    <h3>🌍 Languages</h3>
-    <p align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,python" height="50" alt="Languages" />
-      </a>
-    </p>
-    <p><em>Mastering core languages like C, C++, Python.</em></p>
-  </div>
-
-  <div style="display: inline-block; margin: 20px; padding: 15px; border: 3px solid #2196f3; border-radius: 10px; background-color: #1f1f1f; transition: transform 0.3s;">
-    <h3>🎨 Front-End</h3>
-    <p align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,react" height="50" alt="Front-End" />
-      </a>
-    </p>
-    <p><em>Building sleek and responsive interfaces.</em></p>
-  </div>
-
-  <div style="display: inline-block; margin: 20px; padding: 15px; border: 3px solid #ff5722; border-radius: 10px; background-color: #1f1f1f; transition: transform 0.3s;">
-    <h3>💻 Back-End</h3>
-    <p align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=django,nodejs" height="50" alt="Back-End" />
-      </a>
-    </p>
-    <p><em>Creating robust back-end systems.</em></p>
-  </div>
-
-  <div style="display: inline-block; margin: 20px; padding: 15px; border: 3px solid #ffc107; border-radius: 10px; background-color: #1f1f1f; transition: transform 0.3s;">
-    <h3>🛠️ Tools</h3>
-    <p align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" height="50" alt="Tools" />
-      </a>
-    </p>
-    <p><em>Leveraging tools like Docker, Git & VSCode.</em></p>
-  </div>
-
-</div>
-
-<br>
-
-<!--Projects-->
-<h1 align="center">
-  <img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width = 30px>  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=190&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=false&width=165&height=30&lines=Projects" alt="Typing SVG" />
-  </a> 
-  <img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width = 30px>
-</h1>
-
-<div style="display: flex; justify-content: space-around; align-items: flex-start; padding: 20px;">
-
-  <!-- Left Side: 42 Projects -->
-  <div style="width: 45%; background-color: #1b1b1b; padding: 15px; border-radius: 10px; text-align: center;">
-    <h2>42 Projects</h2>
-    <!-- In Progress Projects -->
-    <h3>In Progress</h3>
-    <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-      <a href="https://github.com/ugozchi/42_CPP"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/cppn.png" alt="CPP Badge" width="120"></a>
-      <a href="https://github.com/ugozchi/42_Inception"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/inceptionn.png" alt="Inception Badge" width="120"></a>
-    </div>
-    <!-- Finished Projects -->
-    <h3>Finished</h3>
-    <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-      <a href="https://github.com/ugozchi/42_Libft"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/libftm.png" alt="Libft Badge" width="120"></a>
-      <a href="https://github.com/ugozchi/42_Get_Next_Line"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/get_next_linem.png" alt="Get Next Line Badge" width="120"></a>
-      <a href="https://github.com/ugozchi/42_Ft_Printf"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/ft_printfe.png" alt="Ft_Printf Badge" width="120"></a>
-      <a href="https://github.com/ugozchi/42_Born2beRoot"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/born2beroote.png" alt="Born2BeRoot Badge" width="120"></a>
-      <a href="https://github.com/ugozchi/42_Push_Swap"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/push_swape.png" alt="Push_Swap Badge" width="120"></a>
-      <a href="https://github.com/ugozchi/42_Minitalk"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/minitalkm.png" alt="Minitalk Badge" width="120"></a>
-      <a href="https://github.com/ugozchi/42_So_Long"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/so_longm.png" alt="So Long Badge" width="120"></a>
-      <a href="https://github.com/ugozchi/42_Philosophers"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/philosopherse.png" alt="Philosophers Badge" width="120"></a>
-      <a href="https://github.com/ugozchi/42_Minishell"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/minishelle.png" alt="Minishell Badge" width="120"></a>
-      <a href="https://github.com/ugozchi/42_NetPractice"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/netpracticem.png" alt="Net Practice Badge" width="120"></a>
-      <a href="https://github.com/ugozchi/42_MiniRT"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/minirte.png" alt="MiniRT Badge" width="120"></a>
-      <a href="https://github.com/ugozchi/42_IRC"><img src="https://github.com/ugozchi/ugozchi/blob/main/42_badges/ft_ircm.png" alt="IRC Badge" width="120"></a>
-    </div>
-  </div>
-
-  <!-- Right Side: External Projects -->
-  <div style="width: 45%; background-color: #1b1b1b; padding: 15px; border-radius: 10px; text-align: center;">
-    <h2>External Projects</h2>
-    <div style="display: flex; justify-content: center; align-items: center; height: 100px;">
-      <h3>Coming Soon</h3>
-    </div>
-  </div>
-</div>
-
-<br>
-
-<!--GitHub stats-->
-<h1 align="center">
-  <img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width = 30px>  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=190&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=false&width=165&height=30&lines=Github+stats" alt="Typing SVG" />
-  </a> 
-  <img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width = 30px>
-</h1>
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ugozchi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Ugo's GitHub Stats" height="165" style="margin: 5px;" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ugozchi&theme=radical&hide_border=true&layout=compact" alt="Most Used Languages" height="165" style="margin: 5px;" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ugozchi/ugozchi/main/assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ugozchi/ugozchi/main/assets/banner-light.svg">
+  <img alt="Ugo Zanchi, Data Engineer and Software Developer" src="https://raw.githubusercontent.com/ugozchi/ugozchi/main/assets/banner-light.svg" width="100%">
+</picture>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ugozchi&theme=radical&hide_border=true" alt="GitHub Streak Stats" height="165" style="margin: 5px;" />
+  <a href="https://www.linkedin.com/in/ugo-zanchi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ugo--zanchi-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:ugozanchi5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ugozanchi5%40gmail.com-0F766E?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
+## About
+
+I work where data, software and AI meet: I build the pipelines that move data, the apps people use on top of it, and the agents that act on it.
+
+- **Now:** Data Engineer at [Lucky Cart](https://www.luckycart.com)
+- **Also:** building **AI Ecoscore** for LVMH, a tool that measures the environmental footprint of AI projects across the group's Maisons
+- **Background:** [42 Paris](https://42.fr) Common Core, where I learned C, C++, Unix and networking from first principles
+
+## Stack
+
+<p>
+  <img alt="Python, TypeScript, React, Next.js, FastAPI, C, C++, Docker, GCP, PostgreSQL, Supabase, Linux, Git" src="https://skillicons.dev/icons?i=python,ts,react,nextjs,fastapi,c,cpp,docker,gcp,postgres,supabase,linux,git&perline=13" height="44">
+</p>
+
+<table>
+  <tr>
+    <td><b>Data</b></td>
+    <td>Python · SQL · pandas · scikit-learn · XGBoost · BigQuery · Parquet · Jupyter</td>
+  </tr>
+  <tr>
+    <td><b>AI & agents</b></td>
+    <td>Model Context Protocol (FastMCP) · Dust · Vertex AI / Gemini · information retrieval</td>
+  </tr>
+  <tr>
+    <td><b>Software</b></td>
+    <td>TypeScript · React · Next.js · FastAPI · Node.js · C / C++</td>
+  </tr>
+  <tr>
+    <td><b>Infra</b></td>
+    <td>Docker · GCP · Supabase / PostgreSQL · Vercel · GitHub Actions · Linux</td>
+  </tr>
+</table>
+
+## Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+**[Volatility Infrastructure Platform](https://github.com/ugozchi/VolatilityInfrastructurePlateform)**
+
+Options data platform on the S&P 500. Pulls spot prices and option chains from Interactive Brokers, solves implied volatility, computes Greeks and volatility surfaces, and serves them through an API and a Plotly dashboard.
+
+`Python` `FastAPI` `SciPy` `Parquet` `IBKR API`
+
+</td>
+    <td width="50%" valign="top">
+
+**[zendesk-mcp](https://github.com/ugozchi/zendesk-mcp)**
+
+MCP server that gives Dust agents full access to Zendesk Support: tickets, users, macros, views and Help Center. Stateless, stores no secrets, and handles Zendesk rate limits on its own.
+
+`Python 3.13` `FastMCP` `Docker` `OAuth`
+
+</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+**[ORI · L'Étudiant](https://github.com/ugozchi/ORI_l-Etudiant)**
+
+AI-assisted study-orientation platform. Gamified cognitive tests build a student persona; Gemini then drafts CVs and cover letters, and a chat agent gives tailored guidance.
+
+`Next.js` `FastAPI` `Vertex AI` `Supabase`
+
+</td>
+    <td width="50%" valign="top">
+
+**[Predicting company results](https://github.com/ugozchi/AS_Supervised_Learning)**
+
+Forecasts the next-year net income of French companies from SIRENE and INPI open data: about 500k company-years (2016 to 2022), a reproducible `make` pipeline and a hybrid XGBoost classifier and regressor.
+
+`Python` `pandas` `XGBoost` `scikit-learn`
+
+</td>
+  </tr>
+</table>
+
+<details>
+<summary><b>Foundations: 42 Paris Common Core</b> (C, C++, Unix, networking)</summary>
 <br>
 
-<!--Contact-->
-<h3 align="center">Let's contribute together!</h3>
-<p align="center">Feel free to submit issues, PRs, or just contact me if you want to collaborate on a project. Together we can build amazing things. 🚀</p>
-<p align="center">
-  <a href="ugozanchi5@gmail.com">📧 Contact</a>
+| Project | What it covers | Language |
+|---|---|---|
+| [Libft](https://github.com/ugozchi/42_Libft) | My own C standard library | C |
+| [ft_printf](https://github.com/ugozchi/42_Ft_Printf) | `printf` from scratch, variadic functions | C |
+| [get_next_line](https://github.com/ugozchi/42_Get_Next_Line) | Line-by-line reading from any file descriptor | C |
+| [push_swap](https://github.com/ugozchi/42_Push_Swap) | Sorting with two stacks and a minimal instruction set | C |
+| [minitalk](https://github.com/ugozchi/42_Minitalk) | Client/server messaging over UNIX signals | C |
+| [so_long](https://github.com/ugozchi/42_So_Long) | Small 2D game with MiniLibX | C |
+| [philosophers](https://github.com/ugozchi/42_Philosophers) | Dining philosophers: threads, mutexes, race conditions | C |
+| [minishell](https://github.com/ugozchi/42_Minishell) | Bash-like shell: parsing, pipes, redirections, signals | C |
+| [miniRT](https://github.com/ugozchi/42_MiniRT) | Ray tracer from scratch | C |
+| [Born2beRoot](https://github.com/ugozchi/42_Born2beRoot) | Hardened Linux server in a virtual machine | Linux |
+| [NetPractice](https://github.com/ugozchi/42_NetPractice) | TCP/IP addressing and subnetting | Networking |
+| [ft_irc](https://github.com/ugozchi/42_IRC) | IRC server with non-blocking sockets and `poll` | C++ |
+| [C++ modules](https://github.com/ugozchi/42_CPP) | Classes, OOP and polymorphism in C++98 | C++ |
+| [Inception](https://github.com/ugozchi/42_Inception) | Multi-container infrastructure with Docker Compose | Docker |
+
+Plus the [Piscine](https://github.com/ugozchi/42_Piscine) and [Piscine Reloaded](https://github.com/ugozchi/42_Piscine_Reloaded).
+
+</details>
+
+## GitHub activity
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=ugozchi&show_icons=true&include_all_commits=true&count_private=true&border_radius=12&bg_color=0D1117&border_color=30363D&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9">
+    <img alt="GitHub stats" height="165" src="https://github-stats-extended.vercel.app/api?username=ugozchi&show_icons=true&include_all_commits=true&count_private=true&border_radius=12&bg_color=F6F8FA&border_color=D0D7DE&title_color=0F766E&icon_color=0F766E&text_color=424A53">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ugozchi&border_radius=12&background=0D1117&border=30363D&stroke=30363D&ring=2DD4BF&fire=2DD4BF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=2DD4BF&sideLabels=8B949E&dates=8B949E">
+    <img alt="GitHub streak" height="165" src="https://streak-stats.demolab.com?user=ugozchi&border_radius=12&background=F6F8FA&border=D0D7DE&stroke=D0D7DE&ring=0F766E&fire=0F766E&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=0F766E&sideLabels=59636E&dates=59636E">
+  </picture>
 </p>
+
+---
+
+<p align="center"><sub>Open to working together on data and AI projects. The fastest way to reach me is <a href="https://www.linkedin.com/in/ugo-zanchi/">LinkedIn</a>.</sub></p>
